@@ -180,7 +180,7 @@ const AboutSection = () => {
                       <span className="text-white text-xs font-bold">G</span>
                     </div>
                     <div>
-                      <div className="text-white font-medium text-sm">Google Data Analytics</div>
+                      <div className="text-white font-medium text-sm">Coming Soon</div>
                       <div className="text-gray-400 text-xs">Professional Certificate</div>
                     </div>
                   </div>
@@ -189,7 +189,7 @@ const AboutSection = () => {
                       <span className="text-white text-xs font-bold">IBM</span>
                     </div>
                     <div>
-                      <div className="text-white font-medium text-sm">IBM Data Science</div>
+                      <div className="text-white font-medium text-sm">Coming Soon</div>
                       <div className="text-gray-400 text-xs">Professional Certificate</div>
                     </div>
                   </div>
