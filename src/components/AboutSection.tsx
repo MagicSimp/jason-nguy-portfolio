@@ -24,7 +24,7 @@ const AboutSection = () => {
       id: 3,
       date: '2024 - present',
       title: 'Bachelor of Science in Computer Science, University of Auckland',
-      description: 'Focused on software, data structures, algorithms, and web development. Completed senior capstone project building a full-stack e-commerce platform with microservices architecture.',
+      description: 'Covers programming, algorithms, software development, computer systems, and data analysis. Builds strong problem-solving, analytical, and technical skills applicable to areas such as artificial intelligence, cybersecurity, and software engineering.',
       icon: 'academic',
       color: 'bg-green-500'
     }
