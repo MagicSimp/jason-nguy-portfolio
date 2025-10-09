@@ -177,19 +177,19 @@ const AboutSection = () => {
                 <div className="space-y-3">
                   <div className="flex items-center space-x-3 p-3 bg-gradient-to-r from-blue-500/10 to-green-500/10 rounded-lg border border-blue-500/20">
                     <div className="w-8 h-8 bg-gradient-to-r from-blue-500 to-green-500 rounded-full flex items-center justify-center">
-                      <span className="text-white text-xs font-bold">G</span>
+                      <span className="text-white text-xs font-bold">CS</span>
                     </div>
                     <div>
-                      <div className="text-white font-medium text-sm">Google Data Analytics</div>
+                      <div className="text-white font-medium text-sm">Coming Soon</div>
                       <div className="text-gray-400 text-xs">Professional Certificate</div>
                     </div>
                   </div>
                   <div className="flex items-center space-x-3 p-3 bg-gradient-to-r from-blue-600/10 to-purple-600/10 rounded-lg border border-blue-600/20">
                     <div className="w-8 h-8 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full flex items-center justify-center">
-                      <span className="text-white text-xs font-bold">IBM</span>
+                      <span className="text-white text-xs font-bold">CS</span>
                     </div>
                     <div>
-                      <div className="text-white font-medium text-sm">IBM Data Science</div>
+                      <div className="text-white font-medium text-sm">Coming Soon</div>
                       <div className="text-gray-400 text-xs">Professional Certificate</div>
                     </div>
                   </div>
