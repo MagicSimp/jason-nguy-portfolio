@@ -12,22 +12,22 @@ const TechnologiesSection = () => {
       { name: 'C++', level: 10 }
     ],
     frontend: [
-      { name: 'React', level: 45 },
-      { name: 'Next.js', level: 24 },
-      { name: 'Angular', level: 5 },
-      { name: 'Tailwind CSS', level: 65 }
+      { name: 'React', level: 15 },
+      { name: 'Next.js', level: 15 },
+      { name: 'Angular', level: 0 },
+      { name: 'Tailwind CSS', level: 25 }
     ],
     backend: [
-      { name: 'Node.js', level: 55 },
-      { name: 'Python', level: 85 },
+      { name: 'Node.js', level: 25 },
+      { name: 'Python', level: 65 },
       { name: 'Java', level: 35 },
-      { name: 'GraphQL', level: 85 }
+      { name: 'GraphQL', level: 10 }
     ],
     devops: [
-      { name: 'AWS', level: 85 },
+      { name: 'AWS', level: 15 },
       { name: 'Docker', level: 0 },
       { name: 'MongoDB', level: 30 },
-      { name: 'PostgreSQL', level: 70 }
+      { name: 'PostgreSQL', level: 20 }
     ]
   };
 
