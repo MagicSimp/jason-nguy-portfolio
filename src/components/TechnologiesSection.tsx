@@ -6,7 +6,7 @@ const TechnologiesSection = () => {
   const technologies = {
     languages: [
       { name: 'JavaScript', level: 50 },
-      { name: 'TypeScript', level: 30 },
+      { name: 'TypeScript', level: 50 },
       { name: 'Python', level: 75 },
       { name: 'Java', level: 25 },
       { name: 'C++', level: 10 }
