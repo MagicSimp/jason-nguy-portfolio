@@ -7,7 +7,7 @@ const MicroProjectsSection = () => {
     {
       id: 1,
       title: 'AI Task Manager',
-      description: 'AI-powered platform for smart task organization and productivity optimization.',
+      description: 'Coming Soon: AI-powered task management app with smart scheduling and reminders.',
       technologies: ['React', 'Node.js'],
       githubUrl: 'https://github.com/MagicSimp',
       liveUrl: 'https://ai-tasks.netlify.app',
@@ -17,7 +17,7 @@ const MicroProjectsSection = () => {
     {
       id: 2,
       title: 'EventHub',
-      description: 'Event management platform with admin dashboard and backend integration.',
+      description: 'Coming Soon: Event management platform with admin dashboard and backend integration.',
       technologies: ['PostgreSQL', 'HTML', 'CSS', 'JavaScript'],
       githubUrl: 'https://github.com/MagicSimp',
       liveUrl: null,
@@ -27,7 +27,7 @@ const MicroProjectsSection = () => {
     {
       id: 3,
       title: 'Weather Forecast',
-      description: 'Real-time weather tracking with OpenWeatherMap API and forecast predictions.',
+      description: 'Coming Soon: Real-time weather tracking with OpenWeatherMap API and forecast predictions.',
       technologies: ['React', 'CSS', 'Weather API', 'Forecast'],
       githubUrl: 'https://github.com/MagicSimp',
       liveUrl: 'https://weather-app-jasonguy.netlify.app',
@@ -37,7 +37,7 @@ const MicroProjectsSection = () => {
     {
       id: 4,
       title: 'YouTube Analytics Pro',
-      description: 'Advanced YouTube analytics comparing video performance metrics with interactive visualizations.',
+      description: 'Coming Soon: Advanced YouTube analytics comparing video performance metrics with interactive visualizations.',
       technologies: ['React', 'TypeScript', 'Tailwind CSS'],
       githubUrl: 'https://github.com/MagicSimp',
       liveUrl: 'https://yt-analytics-pro.vercel.app',
@@ -47,7 +47,7 @@ const MicroProjectsSection = () => {
     {
       id: 5,
       title: 'Pomodoro Timer',
-      description: 'Customizable Pomodoro timer with productivity stats and focus tracking.',
+      description: 'Coming Soon: Customizable Pomodoro timer with productivity stats and focus tracking.',
       technologies: ['React', 'Timer', 'Productivity', 'Stats'],
       githubUrl: 'https://github.com/MagicSimp',
       liveUrl: 'https://pomo-focus-jasonguy.vercel.app',
@@ -57,7 +57,7 @@ const MicroProjectsSection = () => {
     {
       id: 6,
       title: 'AI Job Advisor',
-      description: 'Full-stack AI resume analyzer powered by OpenAI GPT-4 with job recommendations and interview prep.',
+      description: 'Coming Soon: Full-stack AI resume analyzer powered by OpenAI GPT-4 with job recommendations and interview prep.',
       technologies: ['React', 'Node.js'],
       githubUrl: 'https://github.com/MagicSimp',
       liveUrl: 'https://yourjobadvisor-jasonguy.netlify.app',
