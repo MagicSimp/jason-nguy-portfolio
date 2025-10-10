@@ -17,8 +17,8 @@ const ProjectsSection = () => {
     },
     {
       id: 2,
-      title: 'Comming Soon',
-      description: 'Comming Soon',
+      title: 'Coming Soon',
+      description: 'Coming Soon',
       image: 'https://images.unsplash.com/photo-1611224923853-80b023f02d71?q=80&w=2339&auto=format&fit=crop',
       technologies: ['Angular', 'Node.js', 'GraphQL', 'Authentication', 'Apollo Client', 'Express.js'],
       liveUrl: 'https://ai-task-manager.netlify.app',
@@ -27,8 +27,8 @@ const ProjectsSection = () => {
     },
     {
       id: 3,
-      title: 'Comming Soon',
-      description: 'Comming Soon',
+      title: 'Coming Soon',
+      description: 'Coming Soon',
       image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2426&auto=format&fit=crop',
       technologies: ['Angular', 'Social Media APIs', 'TypeScript', 'Tailwind'],
       liveUrl: 'https://social-analytics.netlify.app',
@@ -37,8 +37,8 @@ const ProjectsSection = () => {
     },
     {
       id: 4,
-      title: 'Comming Soon',
-      description: 'Comming Soon',
+      title: 'Coming Soon',
+      description: 'Coming Soon',
       image: 'https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=2532&auto=format&fit=crop',
       technologies: ['React.js', 'Tailwind CSS', 'Recharts', 'Axios', 'SWR', 'Zustand', 'FastAPI', 'MongoDB', 'Python'],
       liveUrl: 'https://crypto-dashboard.netlify.app',
@@ -48,7 +48,7 @@ const ProjectsSection = () => {
     {
       id: 5,
       title: 'Coming soon',
-      description: 'Comming Soon',
+      description: 'Coming Soon',
       image: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2372&auto=format&fit=crop',
       technologies: ['Java', 'Spring Boot', 'Docker', 'Kafka', 'Swagger', 'Microservices'],
       liveUrl: 'https://cloud-platform.netlify.app',
