@@ -84,7 +84,7 @@ const ProjectsSection = () => {
             </span>
           </h2>
           <p className="text-xl text-gray-400 max-w-3xl mx-auto">
-            Explore my collection of innovative projects that showcase my expertise in AI, web development, and software engineering. Each project represents a unique solution to real-world challenges, combining cutting-edge technologies with practical applications.
+            Explore my collection of innovative projects that showcase my expertise in web development and software development. Each project represents a unique solution to real-world challenges, combining cutting-edge technologies with practical applications.
           </p>
         </div>
 
