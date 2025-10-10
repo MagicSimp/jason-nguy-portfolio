@@ -138,7 +138,7 @@ const CapabilitiesSection = () => {
         <div className="mt-20 text-center">
           <div className="inline-flex items-center space-x-2 text-gray-400">
             <div className="w-12 h-0.5 bg-gradient-to-r from-transparent to-purple-500" />
-            <span className="text-sm font-medium">Crafting digital experiences with passion</span>
+            <span className="text-sm font-medium">Crafting digital experiences with passion (still developing capabilities)</span>
             <div className="w-12 h-0.5 bg-gradient-to-l from-transparent to-purple-500" />
           </div>
         </div>
