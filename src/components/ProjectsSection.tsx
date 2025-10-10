@@ -57,8 +57,8 @@ const ProjectsSection = () => {
     },
     {
       id: 6,
-      title: 'Comming Soon',
-      description: 'Comming Soon',
+      title: 'Coming Soon',
+      description: 'Coming Soon',
       image: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2532&auto=format&fit=crop',
       technologies: ['React', 'TypeScript', 'Vite', 'Tailwind CSS', 'Radix UI', 'React Query', 'React Router', 'Framer Motion', 'Recharts'],
       liveUrl: 'https://ai-content-gen.vercel.app',
